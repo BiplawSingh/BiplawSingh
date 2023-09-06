@@ -1,83 +1,18 @@
-<h1 align="center">
-  <img src="https://github.com/BiplawSingh/BiplawSingh/raw/master/assets/github.gif" alt="Hello, World!">
-  <br>
-  Biplaw Singh's GitHub Profile
-  <br>
-</h1>
+# 💫 About Me:
+Hello there! 👋 I'm Biplaw Kumar Singh, a passionate computer science student on a journey to explore the exciting world of technology and programming.<br><br>- 📚 Currently pursuing a degree in Computer Science.<br>- 💻 Enthusiastic about coding and software development.<br>- 🌟 Constantly learning and striving for excellence.<br><br>Join me on this adventure as I continue to learn, grow, and create in the world of computer science!<br>
 
-<p align="center">
-  Welcome to my GitHub playground 🚀! Explore my projects, contributions, and let's build cool stuff together.
-</p>
 
-<h2 align="center">About Me</h2>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/biplaw-kumar-singh-bba95a188) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Biplaw_3_16) 
 
-<p align="center">
-  🌟 Passionate Software Developer<br>
-  💡 Continuous Learner<br>
-  🌐 Tech Enthusiast<br>
-  🚀 Solving Real-world Problems
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BiplawSingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BiplawSingh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BiplawSingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2 align="center">Projects</h2>
+---
+[![](https://visitcount.itsvg.in/api?id=BiplawSingh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <a href="#">
-    <img src="https://github.com/BiplawSingh/BiplawSingh/raw/master/assets/project1.png" alt="Project 1">
-  </a>
-  <a href="#">
-    <img src="https://github.com/BiplawSingh/BiplawSingh/raw/master/assets/project2.png" alt="Project 2">
-  </a>
-</div>
-
-<div align="center">
-  <p>🚧 Project 1: [Project Name]</p>
-  <p>Description: A brief description of the project and its purpose.</p>
-  <p>🛠️ Technologies Used: List the technologies, libraries, and frameworks used.</p>
-  <p>🌐 Live Demo: [Link to Demo]</p>
-  <p>🔗 Repository: [Link to GitHub Repository]</p>
-</div>
-
-<div align="center">
-  <p>🚧 Project 2: [Project Name]</p>
-  <p>Description: A brief description of the project and its purpose.</p>
-  <p>🛠️ Technologies Used: List the technologies, libraries, and frameworks used.</p>
-  <p>🌐 Live Demo: [Link to Demo]</p>
-  <p>🔗 Repository: [Link to GitHub Repository]</p>
-</div>
-
-<h2 align="center">Contributions</h2>
-
-<div align="center">
-  <a href="#">
-    <img src="https://github.com/BiplawSingh/BiplawSingh/raw/master/assets/contribution1.png" alt="Contribution 1">
-  </a>
-  <a href="#">
-    <img src="https://github.com/BiplawSingh/BiplawSingh/raw/master/assets/contribution2.png" alt="Contribution 2">
-  </a>
-</div>
-
-<div align="center">
-  <p>🌟 Active Contributions to Open Source</p>
-  <p>🤝 Collaborations with Various Communities</p>
-  <p>🚀 Making the World of Code Better</p>
-</div>
-
-<h2 align="center">Profiles</h2>
-
-<p align="center">
-  📚 LeetCode: [LeetCode Profile](https://leetcode.com/your-username)<br>
-  🧠 GeeksforGeeks: [GeeksforGeeks Profile](https://www.geeksforgeeks.org/mypage/profile/your-username)<br>
-</p>
-
-<h2 align="center">Contact</h2>
-
-<p align="center">
-  📧 Email: [your@email.com]<br>
-  👥 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-profile/)<br>
-</p>
-
-<h2 align="center">Thank You</h2>
-
-<p align="center">
-  Thank you for visiting my GitHub profile! Connect with me, explore my work, and let's create amazing things together.
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
